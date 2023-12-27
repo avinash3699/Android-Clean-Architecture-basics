@@ -1,6 +1,7 @@
 # Android-Clean-Architecture-basics
 
 ## What is Clean Architecture?
+* [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Robert C. Martin (Uncle Bob)
 * [The “Real” Clean Architecture in Android: S.O.L.I.D.](https://betterprogramming.pub/the-real-clean-architecture-in-android-part-1-s-o-l-i-d-6a661b103451)
 
 ## Use Cases/ Interactors
