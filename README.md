@@ -8,3 +8,7 @@
 ## Use Cases/ Interactors
 * [Why you need Use Cases/Interactors](https://proandroiddev.com/why-you-need-use-cases-interactors-142e8a6fe576)
 * [How To Avoid Use Cases Boilerplate in Android](https://betterprogramming.pub/how-to-avoid-use-cases-boilerplate-in-android-d0c9aa27ef27)
+
+## Repository
+* [The “Real” Repository Pattern in Android](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754)
+* [Functional Data Mappers](https://proandroiddev.com/functional-data-mappers-4daf495192ed)
